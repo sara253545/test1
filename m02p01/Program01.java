@@ -1,3 +1,5 @@
+package m02p01;
+
 //Program to find the area of a square
 public class Program01
 {
