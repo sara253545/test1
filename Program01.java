@@ -9,5 +9,5 @@ public class Program01
         //Display
         System.out.println("The area of a square of side " + 
             side + " is : " +  area );
-    }
-}
+    }//End of the function
+}//End of class
