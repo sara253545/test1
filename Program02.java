@@ -7,7 +7,7 @@ public class Program02
         double area = length * breadth;
 
         //Display the area
-        System.out.println("The area of rectangle of length " 
-            + length + " and breadth " + breadth + " is : " + area);           
+        System.out.println("The area of rectangle of length " +
+           length + " and breadth " + breadth + " is : " + area);           
     }
 }
